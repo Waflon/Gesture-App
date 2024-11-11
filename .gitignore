@@ -1,0 +1,3 @@
+.venv/
+imagenes_descargadas/*
+**/__pycache__/
