@@ -12,7 +12,7 @@ ruta = f'{pathlib.Path().resolve()}\\imagenes_descargadas\\'
 try:
     minutos = int(sys.argv[1])
 except:
-    minutos = 0
+    minutos = 2
     
 try:
     segundos = int(sys.argv[2])
